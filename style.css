@@ -1,0 +1,17 @@
+.calculator{
+	border:2px solid black;
+	width: 280px;
+	box-sizing: border-box;
+	margin: 40px auto 0;
+	font-family: verdana;}
+.calculator .form-control{
+    height: 60px;}
+    .calculator input[type=text]{
+        font-size: 24px;
+        color:#333;}
+    .calculator .btn {
+        font-size: 24px;
+        color:#333;
+        width: 80px;}
+    .calculator .btn-op {
+        background-color: lightblue;}
